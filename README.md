@@ -2,7 +2,7 @@
 with the tool's life gives me. I have a great interest in technology in general, it came to me since i was a kid and loved to play games. To me, being a part of the future of my generation and this topic is a
 plasure and i'm gratefull for that.
 
-- I currently develop web aplications and sites as my chores at SENAI, i'm using PHP and MySQL as my Back-End and DataBase Managment/Development, and CSS3, HTML5 and BOOTSTRAP at the Front-End for my web projects.
+- I currently develop web aplications and sites as my chores at SENAI, i'm using PHP with laravel as my framework, and MySQL for DDL as my Back-End and DataBase Managment/Development, and CSS3, HTML5 and BOOTSTRAP at the Front-End for my web projects.
 But, i'm also familiar and developed in other levels with languages like JavaScript and C++ (i began from this one).
 
 - Looking for a first job in the as an IT worker (any areas of service i'll be gratefull) and upgrading my academic knowlege, beaing a better person in general.
